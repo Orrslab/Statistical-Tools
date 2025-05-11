@@ -13,5 +13,5 @@ perform model diagnostics, and automate common statistical workflows.
 ## Contribution
 
 If you have a statistical function or tool you use often, feel free to add it here.
-Not familiar with Git? Just ask Neta 😄
+Not familiar with Git? Just ask Neta :)
 
